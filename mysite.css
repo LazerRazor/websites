@@ -1,0 +1,118 @@
+
+body{
+  margin: 0;
+  text-align:center;
+font-family: 'Merriweather', serif;
+color:#40514E;
+}
+hr{
+  border:dotted #DFD3C3 6px;
+  border-bottom:none;
+  margin:100px auto;
+  width:4%;
+}
+h1{
+  color:#402218;
+  font-size: 5.625rem;
+  margin-top: 2.6rem;
+  margin-bottom: 0;
+  font-family: 'Sacramento', cursive;
+
+}
+h2{
+  font-weight: normal;
+  color:#BA7967;
+  font-size:2.5rem;
+  font-family: 'Montserrat', sans-serif;
+  padding-bottom:10px;
+}
+h3{
+  color:#865439;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.d1{
+  background-color:#F1ECC3;
+  position:relative;
+  padding-top: 100px;
+}
+.d2{
+  margin:100px 0;
+
+}
+
+.d3{
+  background-color:#F1ECC3;
+  padding:30px 0 10px;
+
+}
+a{
+  color:#C2B8A3;
+  font-family: Montserrat, sans-serif;
+  text-decoration: none;
+}
+a:hover{
+  color:#E6DDC6;
+}
+.bcloud{
+  position:absolute;
+  left:250px;
+  bottom:300px;
+}
+.ucloud{
+  position:absolute;
+  right:300px;
+  top:40px;
+}
+.skill-row{
+  width:50%;
+  margin: 100px auto 100px auto;
+  text-align:left;
+  line-height: 2;
+}
+.image1{
+  width:25%;
+  float:left;
+  margin-right:30px;
+}
+.image2{
+  width:25%;
+  float:right;
+  margin-left:30px;
+}
+.image0{
+  width:19%;
+}
+.intro{
+  width:30%;
+  margin:auto;
+}
+p{
+  line-height:2;
+}
+.contact{
+width:40%;
+margin:40px auto 60px;
+
+}
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family:'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  background: #865439;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background:#BA7967;
+  text-decoration: none;
+}
+.copyright{
+  color:#C2B8A3;
+  font-size:0.75rem;
+  padding:20px 0;
+}
